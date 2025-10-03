@@ -55,3 +55,6 @@ Example: Amazon for Tablets → Installs: 1M → Rating: 4
 Game category has the highest installs (~100M).
 
 ✅ Used to show trend of installs across categories.
+Dataset:-
+https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv
+
